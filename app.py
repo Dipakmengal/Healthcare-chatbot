@@ -6,7 +6,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
 
-chatbot = pipeline("text-generation", model="distilgpt2")
+chatbot = pipeline("text-generation", model="sshleifer/tiny-gpt2")
 
 def healthcare_chatbot(user_input):
     if "symptoms" in user_input:
