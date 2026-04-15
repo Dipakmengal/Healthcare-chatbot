@@ -29,11 +29,12 @@ A smart Healthcare Chatbot built using **Streamlit, NLP, and Transformers** that
 ---
 
 ## 📂 Project Structure
--healthcare-chatbot/
--│
--├── app.py
--├── requirements.txt
--├── README.md
+ healthcare-chatbot/
+- │
+- ├── app.py
+- ├── requirements.txt
+- ├── README.md
+  
 ---
 
 ## ⚙️ Installation & Setup
