@@ -29,23 +29,23 @@ A smart Healthcare Chatbot built using **Streamlit, NLP, and Transformers** that
 ---
 
 ## 📂 Project Structure
-healthcare-chatbot/
+-healthcare-chatbot/
 -│
--├── app.py                # Main Streamlit application
--├── requirements.txt     # All required libraries
--├── README.md            # Project documentation
--├── .gitignore           # Ignore unnecessary files
+-├── app.py                
+-├── requirements.txt     
+-├── README.md           
+-├── .gitignore           
 -│
--├── data/                # (Optional) Dataset files
+-├── data/                
 -│   └── dataset.csv
 -│
--├── model/               # (Optional) ML model files
+-├── model/               
 -│   └── model.pkl
 -│
--├── utils/               # Helper functions (optional)
+-├── utils/               
 -│   └── helper.py
 -│
--└── assets/              # Images / UI files (optional)
+-└── assets/              
     -└── chatbot.png
 
 
